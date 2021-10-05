@@ -1,4 +1,4 @@
-# -Well-Data-Visualization-and-Lithology-Prediction-with-Machine-learning
+# Well-Data-Visualization-and-Lithology-Prediction-with-Machine-learning
 KNN | Random Forest | Decision Tree
 <h3>Some Log Visualization</h3>
 <img src="https://user-images.githubusercontent.com/89530663/136090854-095182c1-8be2-4c5a-8fc7-ef294bfd93f8.png"/>
